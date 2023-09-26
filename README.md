@@ -1,4 +1,4 @@
-# OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY
+# OS EX.3 TROUBLESHOOTING OF OS CASE-STUDY
 
 ## AIM:
 To Troubleshooting of Operating System
